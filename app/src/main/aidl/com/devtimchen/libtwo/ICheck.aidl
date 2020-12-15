@@ -1,0 +1,3 @@
+interface ICheck {
+  void onCheck();
+}
